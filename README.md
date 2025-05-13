@@ -7,9 +7,3 @@ A SVM-based classifier using HOG features to classify 10 big cat species.
 - Create a `dataset/10_big_cats` folder in your project root.
 - Subfolders should be named by species (e.g., `lion`, `tiger`).
 - Place corresponding images in their respective folders.
-
-## Installation
-```bash
-git clone https://github.com/your-username/big-cats-classification.git
-cd big-cats-classification
-pip install -r requirements.txt
